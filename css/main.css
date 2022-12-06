@@ -74,12 +74,16 @@ a {
   font-weight: 200;
   font-size: 18px;
   line-height: 29px;
-  background: #fff;
+  background: #ffffff;
   color: #616161;
   border-radius: 10px;
   border: none;
   margin: 30px;
 
+}
+
+.sign:hover{
+  background: #f3f3f3;
 }
 
 .section-one {
@@ -129,6 +133,10 @@ a {
   border-radius: 10px;
   color: white;
   cursor: pointer;
+}
+
+.ctn:hover{
+  background: #285fd3;
 }
 
 /* 2 */
